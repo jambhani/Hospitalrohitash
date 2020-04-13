@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ss" type="id" />
+    <item name="ts" type="id" />
+    <item name="se" type="id" />
+    <item name="te" type="id" />
+    <item name="tv_current_slot_s" type="id" />
+    <item name="tv_current_slot_e" type="id" />
+</resources>
